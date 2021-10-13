@@ -1,0 +1,6 @@
+tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaaehuxyyg4v54mezbifxq2s7o4jpukqlwpkfgdbh5sfir6ic5mquja"
+user_ocid           = "ocid1.user.oc1..aaaaaaaamsg5hm23aptyt3ilx5xnmztxerijfnomuqtwkxyoyhuttujmzaba"
+private_key_path    = "./oracleidentitycloudservice_r.fmelo-10-12-21-29_public.pem"
+fingerprint         = "3c:85:9e:9b:8c:34:f9:1a:41:32:5d:66:14:4d:73:3f"
+region              = "sa-saopaulo-1"
+root_compartment_id = "ocid1.tenancy.oc1..aaaaaaaaehuxyyg4v54mezbifxq2s7o4jpukqlwpkfgdbh5sfir6ic5mquja"

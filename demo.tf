@@ -31,3 +31,5 @@ output "new_bucket" {
   value = oci_objectstorage_bucket.create_bucket
 }
 
+
+
